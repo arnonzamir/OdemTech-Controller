@@ -39,7 +39,7 @@ void setup()
   pinMode(14, OUTPUT);
   
 }
-
+// Coment Yoad
 int speeds[] = {190,195,200,205,210,215,220,225,230,235,240,245,250,255};
 int i = 0;
 void loop()
