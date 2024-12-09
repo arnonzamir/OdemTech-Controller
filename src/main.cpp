@@ -20,6 +20,8 @@
 #define DIRECTION_PIN 12
 #define VELOCITY_PIN 25
 
+// added a comment 
+
 DocykeMotor motor(ENABLE_PIN, DIRECTION_PIN, VELOCITY_PIN); // Replace with your actual pin numbers
 
 void setup()
